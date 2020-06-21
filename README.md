@@ -4,7 +4,7 @@ L'application que nous avons créé appelé **ChatRoom** permet de communiqué a
 Il suffit de lancé le serveur, pour que les utilisateurs soient sur la même instance.
 
 Le programme permet plusieurs choses:
-- L'utilisateur peut personnalisé son pseudo
+- L'utilisateur peut personnaliser son pseudo
 - L'utilisateur peut ajouté un autre utlisateur pour communiqué
 - L'utilisateur peut créé des groupes pour communiqué
 - Les messages peuvent être consulté même après une déconnexion à l'instance
