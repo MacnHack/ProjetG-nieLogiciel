@@ -1,6 +1,6 @@
 # ProjetG-nieLogiciel
 
-L'application que nous avons créé appelé ????chat???? permet de communiqué avec les personnes présentes sur la même **instance**. 
+L'application que nous avons créé appelé **????chat????** permet de communiqué avec les personnes présentes sur la même **instance**. 
 
 Le programme permet plusieurs choses:
 - L'utilisateur peut personnalisé son pseudo
