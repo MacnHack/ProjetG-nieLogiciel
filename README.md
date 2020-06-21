@@ -7,3 +7,4 @@ Le programme permet plusieurs choses:
 - L'utilisateur peut ajouté un autre utlisateur pour communiqué
 - L'utilisateur peut créé des groupes pour communiqué
 - L'échange est sécurisé entre utilisateur
+- Les messages
