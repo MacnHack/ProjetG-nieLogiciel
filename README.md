@@ -15,4 +15,4 @@ Architecture logiciel:
 - Stockage de donné dans un fichier xml
 - Principe solide
 
-*lien Trello: https://trello.com/b/2j9aTFre/projet-g%C3%A9nie-logiciel
+*lien Trello: https://trello.com/b/2j9aTFre/projet-g%C3%A9nie-logiciel*
