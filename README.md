@@ -1,6 +1,7 @@
-# ProjetG-nieLogiciel
+# ProjetGenieLogiciel
 
-L'application que nous avons créé appelé ????chat???? permet de communiqué avec les personnes présentes sur la même **instance**. 
+L'application que nous avons créé appelé **ChatRoom** permet de communiqué avec les personnes présentes sur la même **instance**. 
+Il suffit de lancé le serveur, pour que les utilisateurs soient sur la même instance.
 
 Le programme permet plusieurs choses:
 - L'utilisateur peut personnalisé son pseudo
@@ -14,3 +15,4 @@ Architecture logiciel:
 - Stockage de donné dans un fichier xml
 - Principe solide
 
+*lien Trello: https://trello.com/b/2j9aTFre/projet-g%C3%A9nie-logiciel
