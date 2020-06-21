@@ -7,4 +7,11 @@ Le programme permet plusieurs choses:
 - L'utilisateur peut ajouté un autre utlisateur pour communiqué
 - L'utilisateur peut créé des groupes pour communiqué
 - L'échange est sécurisé entre utilisateur
-- Les messages
+- Les messages peuvent être consulté même après une déconnexion à l'instance
+- Les messages peuvent être supprimer
+
+Architecture logiciel:
+- Pattern MVC
+- Stockage de donné dans un fichier xml
+- Principe solide
+
